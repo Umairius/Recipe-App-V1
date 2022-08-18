@@ -15,3 +15,10 @@ Simple app to store recipes and their steps
 
     - Enter ```` flutter pub get ```` in terminal to download all the required dependencies.
     - Enter ```` flutter run ```` to launch app
+    
+# Implementation:
+
+* This recipe app contains multiple recipes.
+* The recipes have the total ingredients required, their amounts as well as the steps required to create the dish
+* The recipes can be filtered based on parameters like if the meal is gluten free or not and so on.
+* The recipes can be favorited.
